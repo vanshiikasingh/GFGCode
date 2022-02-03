@@ -35,3 +35,5 @@ Prog15 - https://practice.geeksforgeeks.org/problems/convert-to-roman-no/1
 Prog16 - https://practice.geeksforgeeks.org/problems/find-all-four-sum-numbers1732/1
 
 Prog17 - https://practice.geeksforgeeks.org/problems/length-of-the-longest-substring3036/1
+
+Prog18 - https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1
